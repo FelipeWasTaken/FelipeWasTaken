@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there!  🫐
+<div align="center">
+  <a href="https://github.com/FelipeWasTaken">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeWasTaken&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://i.pinimg.com/564x/99/cf/8a/99cf8a16d81a5c1ee89669afd46c9197.jpg"/>
+</div>
+  
+##
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="pic" height="150" style="border-radius:80px;" src="https://i.pinimg.com/564x/fb/dc/47/fbdc47ef7eb1bba6596e57c7cfb3d143.jpg">
+</div>!
 
-<!--
-**FelipeWasTaken/FelipeWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
