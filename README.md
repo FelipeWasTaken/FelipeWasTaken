@@ -11,4 +11,5 @@
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="pic" height="150" style="border-radius:80px;" src="https://i.pinimg.com/564x/fb/dc/47/fbdc47ef7eb1bba6596e57c7cfb3d143.jpg">
+  <img align="right" alt="pic" height="170" style="border-radius:80px;" src="https://pa1.narvii.com/6102/0f5f21135b1c6f69b70f26cb20171f4578110047_hq.gif">
 </div>!
