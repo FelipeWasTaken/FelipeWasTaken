@@ -12,5 +12,3 @@
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="pic" height="150" style="border-radius:80px;" src="https://i.pinimg.com/564x/fb/dc/47/fbdc47ef7eb1bba6596e57c7cfb3d143.jpg">
 </div>!
-
-##
