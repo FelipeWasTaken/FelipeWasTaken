@@ -15,9 +15,9 @@
 
 <div style="display: inline_block"><br>
   <a href="https://open.spotify.com/user/21sza3rownj6aadwle5wwkjcq?si=c92aceb115624eaa">
-  <img align="left" alt="Spotify" height="50" width="50" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" />
+  <img align="left" alt="Spotify" height="45" width="45" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" />
 </div>
 <div>
   <a href="steamcommunity.com/id/FelipeWasTaken">
-  <img align="left" alt="Steam" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"
+  <img align="left" alt="Steam" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"
 </div>
