@@ -18,6 +18,6 @@
   <img align="left" alt="Spotify" height="45" width="45" src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" />
 </div>
 <div>
-  <a href="steamcommunity.com/id/FelipeWasTaken">
+  <a href="https://steamcommunity.com/id/FelipeWasTaken">
   <img align="left" alt="Steam" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png"
 </div>
