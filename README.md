@@ -10,7 +10,7 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="pic" height="150" style="border-radius:80px;" src="https://i.pinimg.com/564x/c8/1a/9b/c81a9bf2a3d597bc95e28f979dd41f33.jpg">
+  <img align="left" alt="pic" height="150" style="border-radius:80px;" src="https://i.pinimg.com/564x/46/c6/44/46c644494e9204ff99a8b9abc0831f41.jpg">
 </div>!
 
 <div style="display: inline_block"><br>
