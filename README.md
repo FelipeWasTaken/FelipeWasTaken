@@ -1,7 +1,7 @@
 ### Hello there! 🦇🍂
 <div align="center">
   <a href="https://github.com/FelipeWasTaken">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeWasTaken&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeWasTaken&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://i.pinimg.com/564x/e1/31/8f/e1318fa730886eb1d81d30d425fad43b.jpg"/>
 </div>
   
@@ -10,7 +10,7 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="left" alt="pic" height="150" style="border-radius:80px;" src="https://i.pinimg.com/564x/d5/ab/4c/d5ab4cf9030537c98e9a98458c992af7.jpg">
+  
 </div>!
 
 <div style="display: inline_block"><br>
