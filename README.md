@@ -1,7 +1,7 @@
 ### Hello there! 🦇🍂
 <div align="center">
   <a href="https://github.com/FelipeWasTaken">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeWasTaken&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeWasTaken&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://i.pinimg.com/564x/e1/31/8f/e1318fa730886eb1d81d30d425fad43b.jpg"/>
 </div>
   
