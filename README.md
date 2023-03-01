@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Como+aprender+a+programar+google+pesquisar;Serase+o+Michael+Jackson+realmente+morreu?;Como+melhorar+a+dicção?;Baixar+The+Last+of+Us+2+gratis+no+pc+de+graça;%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Como+aprender+a+programar+google+pesquisar;Serase+o+Michael+Jackson+realmente+morreu?;Como+melhorar+a+dicção?;Baixar+The+Last+of+Us+2+gratis+no+pc+de+graça;)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/FelipeWasTaken">
