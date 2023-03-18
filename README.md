@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/FelipeWasTaken">
   <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=felipewastaken&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://i.pinimg.com/564x/36/68/4e/36684ec25eb8db92546685a8a47b356f.jpg"/>
+  <img height="200em" src="https://i.pinimg.com/564x/2d/17/23/2d1723c269e6d6b960a0023f98bec5a6.jpg"/>
 </div>
   
 ##
