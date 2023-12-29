@@ -1,4 +1,4 @@
-### Hello there! 🦇🍂
+### Hello there! 🍂
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/FelipeWasTaken">
   <img align="left" height="200em" src="https://github-readme-stats.vercel.app/api?username=felipewastaken&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://i.pinimg.com/564x/2d/17/23/2d1723c269e6d6b960a0023f98bec5a6.jpg"/>
+  <img height="200em" src="https://cdn.discordapp.com/attachments/1175112251095654451/1190148305993343036/socialismus.jpg?ex=65a0befc&is=658e49fc&hm=460a212826b93964cf7a1d4b9c3cd24131a06e27add9f98d46a6dec95f513a9d&"/>
 </div>
   
 ##
